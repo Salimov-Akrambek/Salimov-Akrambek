@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Salom, men Salimov Akram<br><br>### 🧑‍💻 Backend dasturchi (Django, REST API, Python, SQL)<br><br>Men backend yo‘nalishida ishlayman. Django REST Framework yordamida API’lar yarataman va ma’lumotlar bazasi bilan samarali ishlashni yoqtiraman.<br><br>---<br><br>**Texnologiyalar:**<br>- Django / Django REST Framework  <br>- Python  <br>- SQL (PostgreSQL, SQLite)  <br><br>---<br><br>📫 **Aloqa:** [@@akos_wOw](https://t.me/@akos_wOw)<br>
+# 👋 Salom, men Salimov Akram<br><br>### 🧑‍💻 Backend dasturchi (Django, REST API, Python, SQL)<br><br>Men backend yo‘nalishida ishlayman. Django REST Framework yordamida API’lar yarataman va ma’lumotlar bazasi bilan samarali ishlashni yoqtiraman.<br><br>---<br><br>**Texnologiyalar:**<br>- Django / Django REST Framework  <br>- Python  <br>- SQL (PostgreSQL, SQLite)  <br><br>---<br><br>📫 **Aloqa:** [@akos_wOw](https://t.me/@akos_wOw)<br>
 
 
 ## 🌐 Socials:
