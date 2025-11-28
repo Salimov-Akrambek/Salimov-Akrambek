@@ -1,4 +1,4 @@
-
+<img src="https://www.canva.com/design/DAG59sykk4o/YcoEXJGmLO4Hqtnlh6yx1A/edit?utm_content=DAG59sykk4o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"  width="1808" height="208"/>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.threads.com/@salimov_akrambek.coding?xmt=AQF0mxwXakITsTEC_yzdvJkMUjRpnbJuMu7U8AydXNOz-kA) 
 
