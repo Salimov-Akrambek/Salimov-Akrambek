@@ -1,4 +1,4 @@
-<img src="https://github.com/Salimov-Akrambek/Salimov-Akrambek/blob/main/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD%20%D0%B1%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.png"  width="1808" height="220"/>
+<img src="https://github.com/Salimov-Akrambek/Salimov-Akrambek/blob/main/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD%20%D0%B1%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.png"  width="1808" height="1000"/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.threads.com/@salimov_akrambek.coding?xmt=AQF0iy2vHO97Rd1jCLjU8Ki7XU2NVFqQOkknziRvwJIaqnw) 
